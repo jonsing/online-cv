@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: martin@jonsing.se
-    website: blog.webjeda.com #do not add http://
+    #website: blog.webjeda.com #do not add http://
     linkedin: martin-jonsing
     github: jonsing
     stack-overflow: 4190483/soderstromolov # Number/Username, e.g. 123456/alandoe
@@ -26,21 +26,22 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Family
         link:
 
-      - item: Snowboarding
+      - item: Technology
         link:
 
-      - item: Cooking
+      - item: Programming
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Disruptive cloud solution architect and developer that loves to strategize, 
-      design, and deploy innovative and complete architectures for applications 
-      in the public cloud. 
+      Disruptive cloud solution architect and developer that loves to strategize, design, and 
+      deploy innovative and complete architectures for data platforms in the cloud. I truly
+      beleive that data is a company's second most vaulable asset if handled correctly and by bringing
+      true elasticity and robustness to such a platform it will un-lock great potential.     
 experiences:
     - role: Cloud Solution Architect
       time: 2016 - Present
@@ -58,7 +59,8 @@ experiences:
         capability both in Sweden and in the UK. The most recent project in Sweden was a "renovation" project to
         implement IBM Cognos as a base for self-service reporting and analytics. 
         During my time in the UK I worked mainly on securing data delivery to Handelsbanken's central data warehouse
-        solution for the UK regions. 
+        solution for the UK regions along with designing local tools for business follow-up and analysis.
+
 education:
     - degree: Teknikprogrammet
       university: Sundsvalls Gymnasium
