@@ -101,48 +101,24 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Other, possibly, interesting things
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Below are some linked blog posts plus some other, possibly, interesting things.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Hosting your application for pennies with the power of the cloud"
+        link: "https://www.linkedin.com/pulse/hosting-you-application-pennies-power-cloud-martin-jonsing/"
+        authors: Martin Jonsing
+        conference: LinkedIn, 2020
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Delta Lake - should it be the standard for Data Lakes?"
+        link: "https://www.linkedin.com/pulse/delta-lake-should-standard-data-lakes-martin-jonsing/"
+        authors: Martin Jonsing
+        conference: LinkedIn, 2020
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - title: "Sandvik Coromant upgrades decade-old architecture to Azure"
+        link: "https://customers.microsoft.com/en-US/story/810496-sandvik-coromant-chemicals-power-bi"
+        authors: Microsoft
+        conference: "Customer Stories"
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
