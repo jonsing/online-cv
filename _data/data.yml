@@ -98,21 +98,18 @@ projects:
           layer consisted of Azure Synapse Analytics with Power BI as a single pane of glass for the business stakeholders."
 
       - title: Analytical solution for clickstream data
-        link: "#"
         tagline: | 
           "Development and implementation of a service for running analytics on click stream data from a large 
           global e-commerce solution. Ingested data was combined with various realted business object to for a 
           online 360 view of the customer. Solution utilized PaaS services in Microsoft Azure Cloud."
 
       - title: Lift and shift of legacy on-prem reporting platform to cloud
-        link: "#"
         tagline: | 
           "A shorter project to analyze and outline needed steps to lift-and-shift and existing on-premise bare metal
           system to a new Microsoft Azure Cloud setup. Once moved to Azure the system consisted of 15 virtual machine's
           running Microsoft SQL Server and Reporting Services and Analysis Services."
 
       - title: Atomic
-        link: "#"
         tagline: | 
           "A open-source (to be released) data workload management application that simplfies creation and orchestration
           of data processing jobs when running Apache Spark services like DataBricks."
