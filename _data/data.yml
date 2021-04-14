@@ -35,14 +35,18 @@ sidebar:
       - item: Programming
         link:
 
+      - item: Formula 1
+        link:
+
 career-profile:
     title: Career Profile
     summary: |
       Disruptive cloud solution architect and developer that loves to strategize, design, and 
       deploy innovative and complete architectures for data platforms in the cloud. I truly
       beleive that data is a company's second most vaulable asset if handled correctly and by bringing
-      true elasticity and robustness to such a platform it will un-lock great potential.     
-experiences:
+      true elasticity and robustness to such a platform it will un-lock great potential.   
+
+latest experiences:
     - role: Cloud Solution Architect
       time: 2016 - Present
       company: Sandvik Coromant, Sweden
@@ -53,7 +57,7 @@ experiences:
         implement new functionality using the Microsoft Azure Cloud services.
     - role: Business Intellience Specialist
       time: 2006 - 2016
-      company: Handelsbanken, Sweden
+      company: Handelsbanken, Sweden + UK
       details: |
         As a BI speciliast at Handelsbanken I participated in numerous project to build out the analytical
         capability both in Sweden and in the UK. The most recent project in Sweden was a "renovation" project to
@@ -62,27 +66,36 @@ experiences:
         solution for the UK regions along with designing local tools for business follow-up and analysis.
 
 education:
+    - degree: Business administration and finance
+      university: University of Gävle
+      time: 2004 - 2006
+      details: |
+        Various courses on A and B level related to business administration and financial steering.
+    - degree: Computer science cources
+      university: Mid Sweden Univeristy
+      time: 2003
+      details: |
+        Computer science related cources like computer networking, operating systems and programming in C++.
     - degree: Teknikprogrammet
       university: Sundsvalls Gymnasium
       time: 2000 - 2003
       details: |
         A three year technical education (upper secondary diploma) with a main focus on computer science
         but also on integration of technology in everyday life.
-    - degree: Computer science cources
-      university: Mid Sweden Univeristy
-      time: 2003
-      details: |
-        Computer science related cources like computer networking, operating systems and programming in C++.
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Below are some examples of projects and assignments I'v been involved in during that last couple of year. 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Sandvik Coromant Business Data Platform
+        link: "https://customers.microsoft.com/en-US/story/810496-sandvik-coromant-chemicals-power-bi"
+        tagline: |
+          "Development and implementation of a green field data platform architecture for Sandvik Coromant
+          using PaaS services in Microsoft Azure Cloud. Data ingest and processing is handled using Apache Spark
+          with orchestration services like Azure Data Factory and storage services like Azure Data Lake Storage Gen2.
+          Both batch processing and streaminng data is ingested, transformed and consolidated into numerous data models 
+          of the star schema type. Serving layer consisted of Azure Synapse Analytics with Power BI as a single pane of
+          glass for the business stakeholders."
 
       - title: DevStudio
         link: "#"
