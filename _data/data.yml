@@ -41,10 +41,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Disruptive cloud solution architect and developer that loves to strategize, design, and 
-      develop innovative and complete architectures for data platforms in the cloud. I truly
-      beleive that data is a company's second most vaulable asset if handled correctly and by bringing
-      true elasticity and robustness to such a platform it will un-lock great potential.
+      Disruptive cloud solution architect and data engineer that loves to strategize, design, and develop 
+      innovative and complete architectures for data platforms in the cloud. I truly believe that data is a 
+      company’s second most valuable asset if handled correctly and by bringing true elasticity and 
+      robustness to such a platform it will un-lock great potential.
 
 experiences:
     - role: Cloud Solution Architect
@@ -52,9 +52,9 @@ experiences:
       company: Sandvik Coromant, Sweden
       details: |
         As a CSA my overall mission is to design and improve our global data platform used for enterprise
-        wide reporting & analytics. In this role I have a close cooperation with key business experts in
-        all process steps in our manufacturing supply chain. From a technical point of view we design and
-        implement new functionality using the Microsoft Azure Cloud services.
+        wide reporting & analytics. In this role I have a close cooperation with key business experts in all
+        process steps in our manufacturing supply chain. From a technical point of view we design and implement
+        new functionality using the Microsoft Azure Cloud services.
     - role: Business Intellience Specialist
       time: 2006 - 2016
       company: Handelsbanken, Sweden + UK
